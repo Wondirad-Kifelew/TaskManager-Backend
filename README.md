@@ -17,8 +17,8 @@ RESTful API for managing tasks using Node.js, Express, and MongoDB.
 ## Setup
 
 ```bash
-git clone https://github.com/your-username/task-manager-api.git
-cd task-manager-api
+git clone git@github.com:Wondirad-Kifelew/Task-Manager-Backend.git
+cd TaskManager-Backend
 npm install
 ```
 ---
@@ -30,8 +30,12 @@ npm run dev
 ```
 ## Setup
 
-```bash
-git clone https://github.com/your-username/task-manager-api.git
-cd task-manager-api
-npm install
-```
+---
+## API Endpoints
+
+Tested using a REST client vs code extention for testing the API.
+
+- `GET /api/tasks` — Get all tasks
+- `POST /api/tasks` — Add a new task
+- `PUT /api/tasks/:id` — Mark as completed
+- `DELETE /api/tasks/:id` — Delete a task by ID
