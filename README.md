@@ -17,7 +17,7 @@ RESTful API for managing tasks using Express framework, and MongoDB.
 ## Setup
 
 ```bash
-git clone git@github.com:Wondirad-Kifelew/Task-Manager-Backend.git
+git clone git@github.com:Wondirad-Kifelew/TaskManager-Backend.git
 cd TaskManager-Backend
 npm install
 ```
