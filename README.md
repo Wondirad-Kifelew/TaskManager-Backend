@@ -1,6 +1,6 @@
 # Task Manager API
 
-RESTful API for managing tasks using Node.js, Express, and MongoDB.
+RESTful API for managing tasks using Express framework, and MongoDB.
 
 ## Features
 
