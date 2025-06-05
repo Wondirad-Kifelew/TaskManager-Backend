@@ -28,7 +28,6 @@ npm install
 ```bash
 npm run dev
 ```
-## Setup
 
 ---
 ## API Endpoints
